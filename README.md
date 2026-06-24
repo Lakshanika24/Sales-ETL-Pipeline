@@ -55,4 +55,4 @@ Schedule: Daily (@daily)
 Task: Runs ETL Python script
 👩‍💻 Author
 
-Keerthana Thangaraj
+Lakshanika.T
